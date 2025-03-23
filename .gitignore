@@ -1,0 +1,3 @@
+# Ignora pastas específicas dentro da subpasta aula2
+aula2/.idea/
+aula2/out/
